@@ -1,0 +1,8 @@
+.github
+.husky
+src
+.eslintignore
+.eslintrc.json
+.prettierignore
+ava.config.js
+tsconfig.json
