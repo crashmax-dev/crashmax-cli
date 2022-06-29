@@ -1,6 +1,6 @@
 {
   "name": "crashmax",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "crashmax-cli",
   "type": "module",
   "bin": {
