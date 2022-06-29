@@ -2,12 +2,12 @@ import meow from 'meow'
 
 export const cli = meow(
   `
-	Usage
-	  $ crashmax <input>
+  Usage
+    $ crashmax <input>
 
-	Options
+  Options
     --github,   Visit to GitHub profile
-	  --twitch,   Visit to Twitch channel
+    --twitch,   Visit to Twitch channel
     --telegram  Visit to Telegram account
     --steam     Visit to Steam account
 `,
